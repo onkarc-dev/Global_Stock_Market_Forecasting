@@ -178,11 +178,11 @@ Option 1: Google Colab (Recommended)
 
 <br>Future Enhancements<br>
 
--Add real-time data streaming
--Deploy as a web dashboard (Streamlit / FastAPI)
--Reinforcement learning for trading strategies
--Multi-asset portfolio optimization
--News & sentiment analysis integration
+<br>-Add real-time data streaming<br>
+<br>-Deploy as a web dashboard (Streamlit / FastAPI)<br>
+<br>-Reinforcement learning for trading strategies<br>
+<br>-Multi-asset portfolio optimization<br>
+<br>-News & sentiment analysis integration<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
