@@ -194,7 +194,7 @@ Option 1: Google Colab (Recommended)
 <br>Author<br>
 
 <br>Onkar Chougule<br>
-<br>🎓 ENTC Engineering | AI & ML Enthusiast<br>
+<br>🎓 ENTC Engineering | AI & ML/(Qunat) Enthusiast<br>
 <br>📊 Financial Time-Series & Deep Learning<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
