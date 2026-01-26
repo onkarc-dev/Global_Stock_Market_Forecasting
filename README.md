@@ -15,9 +15,9 @@ Model comparison & explainability
 The project is designed to be educational, modular, and production-ready, making it suitable for research, academic evaluation, and real-world financial analysis.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🎯 Objectives
-Analyze historical stock price behavior of major global companies
-Extract technical and seasonal features for time-series forecasting
+<br>🎯 Objectives<br>
+<br>Analyze historical stock price behavior of major global companies
+Extract technical and seasonal features for time-series forecasting<br>
 Build and compare multiple forecasting models:
 Linear & Regularized Regression
 LSTM-based Deep Learning models
@@ -30,7 +30,7 @@ Identify short-term investment trends (Uptrend / Downtrend)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Stocks Covered
+<br>Stocks Covered<br>
 
 The project analyzes 15 major global stocks:
 
@@ -40,7 +40,7 @@ JNJ, XOM, TSM, KO, MCD
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack
+<br>🛠️ Tech Stack<br>
 
 Programming & Tools:-
 Python 3.9+
@@ -59,7 +59,7 @@ Portfolio Analysis: PyPortfolioOpt
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project Workflow
+<br>Project Workflow<br>
 1️⃣ Data Collection
 Stock price data fetched from Yahoo Finance
 Time range: Jan 2020 → Present
@@ -106,9 +106,9 @@ Handling missing values
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Models Implemented
-🔹 1. Ridge Regression (Linear Model)
+<br>Models Implemented<br>
 
+🔹 1. Ridge Regression (Linear Model)
 Hyperparameter tuning using Optuna
 
 Metrics:
@@ -150,7 +150,7 @@ Robust performance evaluation
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Model Explainability
+<br>Model Explainability<br>
 
 SHAP (SHapley Additive Explanations) used to:
 Identify most influential features
@@ -159,7 +159,7 @@ Generate SHAP summary & dependence plots
 📈 Forecasting & Trend Analysis
 Multi-day future price forecasting
 
-Moving-average-based trend detection:
+<br>Moving-average-based trend detection:<br>
 
 📈 Uptrend → Investment Opportunity
 📉 Downtrend → Risk Alert
@@ -167,7 +167,7 @@ Interactive Plotly visualizations
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-▶️ How to Run
+<br>▶️ How to Run<br>
 Option 1: Google Colab (Recommended)
 
 Open the notebook
@@ -176,7 +176,7 @@ No local setup required
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Future Enhancements
+<br>Future Enhancements<br>
 
 Add real-time data streaming
 Deploy as a web dashboard (Streamlit / FastAPI)
@@ -186,10 +186,10 @@ News & sentiment analysis integration
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Author
+<br>Author<br>
 
-Onkar Chougule
-🎓 Computer Engineering | AI & ML Enthusiast
-📊 Financial Time-Series & Deep Learning
+<br>Onkar Chougule<br>
+<br>🎓 ENTC Engineering | AI & ML Enthusiast<br>
+<br>📊 Financial Time-Series & Deep Learning<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
