@@ -1,5 +1,9 @@
 # Global_Stock_Market_Forecasting
-<br>(https://colab.research.google.com/drive/1L_MUPQuQUL-V9RcRWi6rVWyElkI_sVA9?usp=drive_open#scrollTo=K82U7E7w2ASG)<br>
+- 📘 **GitHub Notebook:**  
+  [Global Stock Market Forecasting (ML & DL)](Global_Stock_Market_Forecasting_Using_ML_DL.ipynb)
+
+- 🚀 **Run on Google Colab:**  
+  [Open in Colab](https://colab.research.google.com/drive/1L_MUPQuQUL-V9RcRWi6rVWyElkI_sVA9)
 
 <br>📌 Project Overview<br>
 
