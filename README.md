@@ -1,5 +1,7 @@
 # Global_Stock_Market_Forecasting
+This is line one.
 📌 Project Overview
+This is line two.
 
 This project presents a comprehensive end-to-end stock market forecasting system that combines statistical analysis, machine learning, deep learning, 
 and time-series modeling to analyze and predict global stock prices.
