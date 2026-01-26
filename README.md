@@ -170,19 +170,19 @@ Interactive Plotly visualizations
 <br>▶️ How to Run<br>
 Option 1: Google Colab (Recommended)
 
-Open the notebook
-Run cells sequentially
-No local setup required
+-Open the notebook
+-Run cells sequentially
+-No local setup required
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>Future Enhancements<br>
 
-Add real-time data streaming
-Deploy as a web dashboard (Streamlit / FastAPI)
-Reinforcement learning for trading strategies
-Multi-asset portfolio optimization
-News & sentiment analysis integration
+-Add real-time data streaming
+-Deploy as a web dashboard (Streamlit / FastAPI)
+-Reinforcement learning for trading strategies
+-Multi-asset portfolio optimization
+-News & sentiment analysis integration
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
